@@ -4,7 +4,7 @@ import json
 import subprocess
 import paho.mqtt.client as mqtt
 
-broker = "19908b6cb7054952800839917a2701c3.s1.eu.hivemq.cloud"
+broker = "866f25366b704f7082cf5f69e15eea34.s1.eu.hivemq.cloud"
 port = 8883
 username = "lightningalert"
 password = "IDontknow123!"
